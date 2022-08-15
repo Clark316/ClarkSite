@@ -1,0 +1,9 @@
+name: clarkenv
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9
+  - tornado=6.2
+  - requests
+  - ipython
+  - Pillow=9.2.0
